@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\420007ba64425d2bb77357880503cae2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\360ba37434fe851214fa62b165f8e6df\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\85592a05288a3d36aba62f23d16ce136\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\71c4eeb407357b2f2c944295382aa708\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\459146722ea8987ac5e981039460433b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aa6272a034c41d55cb798c8c06bb784c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6f916c1d4ef630c1651075a2a5850812\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\21d670e0ca5d307f0dd728658a59aa23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fcccb98780b590b934dce3881964dba2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6bb1a02d4f9ffc3253564ac57a99c504\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\058b206b69ed2b34947ffc1b8880b110\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4ba5b3fc96833b498d36e98cceccdc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8cc1dba69fc32f80b16ccfd62f7957a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\af82d8a59c18ac148284b24c40a2e7a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b85c764c7eac379cc0b3f6688de6bbfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e29cc5e71b34810c2fdcd9fac81b8209\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\32d964386780c3b7f1b3225ba1257aaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\94940ede52ca547f8f95ffbd25d3f501\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8cac2f401deb52d5cc8de647e8c1cc5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d329df5c891e19a6e14115e0914e8b7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf5e903d2494bc857888ff579b0b95a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\c33c1f1ffe480ed8449933b44aa5ec50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\541dcee34e97c0d814f99589a02851b8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1643d526b9190757fe1787a36650a89b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4c4fcac074192da11e259bfd917972d7\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b4b4807103056ddb3854207d9711434\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2f1a9c489adf834c69328799bb7c7f8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\02177443260de82c13940d748c43856d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\165f12ce83244acd267a919199bfb070\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fb75857be0656096a4123507420daa0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5e9e5fa435ee7245b42e495cceb068b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85b795eb2cce1420d5d19d7d181803e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\330384692aa5f36705984f4fd2d77586\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e8a7f885cae3bc2931f903d8b18bf9c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\09368416e09ac7a4bf052398bd0aa6bd\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:3:5-68
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:8:19-57
+uses-permission#android.permission.CAMERA
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:10:22-62
+application
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:12:5-38:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\420007ba64425d2bb77357880503cae2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\420007ba64425d2bb77357880503cae2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\360ba37434fe851214fa62b165f8e6df\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\360ba37434fe851214fa62b165f8e6df\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\85592a05288a3d36aba62f23d16ce136\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\85592a05288a3d36aba62f23d16ce136\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\459146722ea8987ac5e981039460433b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\459146722ea8987ac5e981039460433b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\541dcee34e97c0d814f99589a02851b8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\541dcee34e97c0d814f99589a02851b8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4c4fcac074192da11e259bfd917972d7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4c4fcac074192da11e259bfd917972d7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\541dcee34e97c0d814f99589a02851b8\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:17:9-36
+	android:hardwareAccelerated
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:14:9-43
+	android:icon
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:15:9-38
+	android:allowBackup
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:16:9-47
+meta-data#com.google.android.gms.version
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:19:9-20:68
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\85592a05288a3d36aba62f23d16ce136\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\85592a05288a3d36aba62f23d16ce136\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:19:20-65
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:22:9-24:36
+	android:value
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:24:13-33
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:23:13-70
+activity#com.google.android.gms.samples.vision.face.googlyeyes.GooglyEyesActivity
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:26:9-37:20
+	android:screenOrientation
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:31:13-51
+	android:label
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:29:13-37
+	android:icon
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:28:13-42
+	android:theme
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:27:13-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\420007ba64425d2bb77357880503cae2\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\420007ba64425d2bb77357880503cae2\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\360ba37434fe851214fa62b165f8e6df\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\360ba37434fe851214fa62b165f8e6df\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\85592a05288a3d36aba62f23d16ce136\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\85592a05288a3d36aba62f23d16ce136\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\71c4eeb407357b2f2c944295382aa708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\71c4eeb407357b2f2c944295382aa708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\459146722ea8987ac5e981039460433b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\459146722ea8987ac5e981039460433b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aa6272a034c41d55cb798c8c06bb784c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aa6272a034c41d55cb798c8c06bb784c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6f916c1d4ef630c1651075a2a5850812\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6f916c1d4ef630c1651075a2a5850812\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\21d670e0ca5d307f0dd728658a59aa23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\21d670e0ca5d307f0dd728658a59aa23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fcccb98780b590b934dce3881964dba2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fcccb98780b590b934dce3881964dba2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6bb1a02d4f9ffc3253564ac57a99c504\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6bb1a02d4f9ffc3253564ac57a99c504\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\058b206b69ed2b34947ffc1b8880b110\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\058b206b69ed2b34947ffc1b8880b110\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4ba5b3fc96833b498d36e98cceccdc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4ba5b3fc96833b498d36e98cceccdc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8cc1dba69fc32f80b16ccfd62f7957a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8cc1dba69fc32f80b16ccfd62f7957a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\af82d8a59c18ac148284b24c40a2e7a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\af82d8a59c18ac148284b24c40a2e7a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b85c764c7eac379cc0b3f6688de6bbfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b85c764c7eac379cc0b3f6688de6bbfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e29cc5e71b34810c2fdcd9fac81b8209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e29cc5e71b34810c2fdcd9fac81b8209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\32d964386780c3b7f1b3225ba1257aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\32d964386780c3b7f1b3225ba1257aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\94940ede52ca547f8f95ffbd25d3f501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\94940ede52ca547f8f95ffbd25d3f501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8cac2f401deb52d5cc8de647e8c1cc5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8cac2f401deb52d5cc8de647e8c1cc5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d329df5c891e19a6e14115e0914e8b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d329df5c891e19a6e14115e0914e8b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf5e903d2494bc857888ff579b0b95a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf5e903d2494bc857888ff579b0b95a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\c33c1f1ffe480ed8449933b44aa5ec50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\c33c1f1ffe480ed8449933b44aa5ec50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\541dcee34e97c0d814f99589a02851b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\541dcee34e97c0d814f99589a02851b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1643d526b9190757fe1787a36650a89b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1643d526b9190757fe1787a36650a89b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4c4fcac074192da11e259bfd917972d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4c4fcac074192da11e259bfd917972d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b4b4807103056ddb3854207d9711434\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b4b4807103056ddb3854207d9711434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2f1a9c489adf834c69328799bb7c7f8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2f1a9c489adf834c69328799bb7c7f8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\02177443260de82c13940d748c43856d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\02177443260de82c13940d748c43856d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\165f12ce83244acd267a919199bfb070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\165f12ce83244acd267a919199bfb070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fb75857be0656096a4123507420daa0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fb75857be0656096a4123507420daa0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5e9e5fa435ee7245b42e495cceb068b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5e9e5fa435ee7245b42e495cceb068b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85b795eb2cce1420d5d19d7d181803e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85b795eb2cce1420d5d19d7d181803e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\330384692aa5f36705984f4fd2d77586\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\330384692aa5f36705984f4fd2d77586\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e8a7f885cae3bc2931f903d8b18bf9c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e8a7f885cae3bc2931f903d8b18bf9c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\09368416e09ac7a4bf052398bd0aa6bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\09368416e09ac7a4bf052398bd0aa6bd\AndroidManifest.xml:20:5-44
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Repositories\gitapps\Facial_filter\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TARUN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\a28b687e9876803a9a72e297a5eb1917\AndroidManifest.xml:20:19-85

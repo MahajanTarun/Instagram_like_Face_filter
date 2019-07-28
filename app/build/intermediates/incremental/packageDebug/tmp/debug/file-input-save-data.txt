@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jun 07 15:53:27 IST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Projects\\Demo_Projects\\RAVAN\\SP_2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
